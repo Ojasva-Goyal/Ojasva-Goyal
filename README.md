@@ -1,14 +1,7 @@
 # Hi there! 👋 Welcome to my GitHub
 
 I'm Ojasva Goyal, a **Civil Engineering and Data Science student at BITS Pilani** with a passion for **AI/ML, UAV programming, and sustainability**. I love merging engineering principles with cutting-edge technologies to solve real-world problems.
-
----
-
-## 🚀 About Me:
-- **AI/ML Enthusiast**: Applying AI to impactful projects like **image dehazing** and **sound classification**.
-- **Drone Specialist**: Vice-Captain of Team Robocon, working on **autonomous quadcopters** for disaster management.
-- **Innovator**: Leading **ePlast**, automating plastic recycling with AI and Computer Vision.
-- **Researcher**: Published work in **agricultural diagnostics** and **wheat rust classification** using Deep Learning.
+My academic foundation, coupled with hands-on projects and research, has allowed me to explore diverse applications of AI and ML in fields such as agriculture, sustainability, and robotics.
 
 ---
 
