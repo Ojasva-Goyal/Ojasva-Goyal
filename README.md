@@ -24,10 +24,10 @@
 ---
 
 ## 📫 Let’s Connect:
-- **Resume**: [View Here](#)
+- **Resume**: [View Here](https://drive.google.com/file/d/1rqfg05QSJ7JJemTij0UdQVcOP_5Q2EWz/view?usp=drive_link)
 - **Google Scholar**: [View Profile](https://scholar.google.com/citations?user=PC6cUHYAAAAJ&hl)
 - **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/ojasva-goyal-476422230/)
-- **Email**: [Email](mailto:ojasvagoyal9@gmail.com)
+- **Email**: [University Email](mailto:f20212378@pilani.bits-pilani.ac.in) | [Personal Email](mailto:ojasvagoyal9@gmail.com)
 
 ---
 
