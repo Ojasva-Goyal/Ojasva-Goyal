@@ -12,7 +12,7 @@
 - 🚀 Received Mantra Leadership's **Innovator of the Year** Award for 2024-2025 from **BITSAA & CEL**
 - 📜 **Published** in **Nature & Elsevier**
 - 💼 Open to collaborating on **AI/ML** and **UAV** projects
-- 📫 How to reach me: **[Email](mailto:ojasvagoyal9@gmail.com)**
+- 📫 How to reach me: **[University Email](mailto:f20212378@pilani.bits-pilani.ac.in)** | **[Personal Email](mailto:ojasvagoyal9@gmail.com)**
 
 ---
 
