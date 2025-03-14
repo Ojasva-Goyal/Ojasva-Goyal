@@ -9,6 +9,7 @@
 
 - 🎓 **Student** at **BITS Pilani, Pilani Campus**
 - 🚀 Selected for **Microsoft Founder's Hub**, **Cohort 7 of Cisco's thingQbator** for **ePlast**
+- 🚀 Received Mantra Leadership's **Innovator of the Year** Award for 2024-2025 from **BITSAA & CEL**
 - 📜 **Published** in **Nature & Elsevier**
 - 💼 Open to collaborating on **AI/ML** and **UAV** projects
 - 📫 How to reach me: **[Email](mailto:ojasvagoyal9@gmail.com)**
