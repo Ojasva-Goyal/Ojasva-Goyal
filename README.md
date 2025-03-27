@@ -18,7 +18,7 @@
 
 ## 🛠️ My Tech Stack:
 - **Languages**: Python, SQL, HTML, CSS
-- **Frameworks**: TensorFlow, PyTorch, Scikit-learn
+- **Frameworks**: LangChain, TensorFlow, PyTorch, Scikit-learn
 - **Tools**: ROS, Gazebo, Tableau, Metabase
 
 ---
