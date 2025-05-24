@@ -27,6 +27,7 @@
 - **Resume**: [View Here](https://drive.google.com/file/d/1rqfg05QSJ7JJemTij0UdQVcOP_5Q2EWz/view?usp=drive_link)
 - **Google Scholar**: [View Profile](https://scholar.google.com/citations?user=PC6cUHYAAAAJ&hl)
 - **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/ojasva-goyal-476422230/)
+- **Medium**: [View Profile](https://medium.com/@ojasvagoyal9)
 - **Email**: [University Email](mailto:f20212378@pilani.bits-pilani.ac.in) | [Personal Email](mailto:ojasvagoyal9@gmail.com)
 
 ---
@@ -59,7 +60,8 @@ My academic foundation, coupled with hands-on projects and research, has allowed
 ## 📫 Let’s Connect:
 - **Resume**: [View Here](#)
 - **Google Scholar**: [View Profile](https://scholar.google.com/citations?user=PC6cUHYAAAAJ&hl)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/ojasva-goyal-476422230/)
+- **LinkedIn**: [View Profile](https://linkedin.com/in/ojasva-goyal-476422230/)
+- **Medium**: [View Profile](https://medium.com/@ojasvagoyal9)
 - **Email**: [Your Email](mailto:ojasvagoyal9@gmail.com)
 
 ---
